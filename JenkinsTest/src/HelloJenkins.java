@@ -2,7 +2,7 @@
 public class HelloJenkins {
 
 	public static void main(String[] args) {
-System.out.println("Hello Jenkins programming....123");
+System.out.println("Hello Jenkins programming....webhooks");
 	}
 
 }
